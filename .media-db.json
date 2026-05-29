@@ -1,0 +1,49 @@
+{
+  "videos": {
+    "我不难过.MOV": {
+      "title": "我不难过",
+      "description": "保存在本地 assets/video · 1.5 GB",
+      "category": "演出"
+    },
+    "IMG_1808.MOV": {
+      "title": "陈绮贞",
+      "description": "保存在本地 assets/video · 417 MB",
+      "category": "演出"
+    },
+    "5月8日.mp4": {
+      "title": "东京",
+      "description": "保存在本地 assets/video · 70 MB",
+      "category": "默认"
+    }
+  },
+  "photos": {
+    "5月8日-封面.jpg": {
+      "title": "5月8日-封面",
+      "description": "",
+      "category": "宝丽来",
+      "folder": "未归档"
+    }
+  },
+  "audios": {},
+  "categories": {
+    "videos": [
+      "默认",
+      "演出"
+    ],
+    "photos": [
+      "默认",
+      "宝丽来"
+    ],
+    "audios": [
+      "默认"
+    ]
+  },
+  "categoryMeta": {
+    "photos": {
+      "宝丽来": {
+        "cover": "https://tse3.mm.bing.net/th/id/OIP.oX5QileC9BhxCEyazmi-YAHaE8?w=1074&h=716&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "note": "宝丽来flip"
+      }
+    }
+  }
+}
